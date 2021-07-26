@@ -1,10 +1,7 @@
+import Layout from "../component/Layout";
 
 const Blog = () => {
-    return (
-        <div>
-            マムシのページ
-        </div>
-    );
+    return <Layout title="Blog">Blog page</Layout>
 };
 
 export default Blog;
