@@ -13,4 +13,11 @@
 
 あと処理
 - git checkout main
-- git pull
+- git pull origin main
+
+
+##　ブランチの確認
+- git branch
+
+## ブランチの削除
+- git branch -D ブランチ名
