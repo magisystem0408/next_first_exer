@@ -11,7 +11,7 @@
 - git push origin HEAD
 
 
-あと処理
+終わった後の処理
 - git checkout main
 - git pull origin main
 
